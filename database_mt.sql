@@ -80,6 +80,3 @@ delete from tbl_supplier where vchr_supplier_name = 'Creative';
 
 select(vchr_name , int_price) as product_price from tbl_stock;
 
-create table tbl_student(
-    
-)
